@@ -5,10 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/SeracthBox.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    guid: 1cbea752c94352044a6f358854a408d4
   - enabled: 1
     path: Assets/Scenes/Output_Scene.unity
-    guid: 9c6d91269e4831b49b0e3190d053d45a
+    guid: eeadfde2f99f6c14dbbe3ae476b21be9
   m_configObjects: {}
